@@ -1,0 +1,6 @@
+framework module Pods_CocoaPractice {
+  umbrella header "Pods-CocoaPractice-umbrella.h"
+
+  export *
+  module * { export * }
+}
